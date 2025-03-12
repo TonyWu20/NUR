@@ -613,8 +613,8 @@
             "url": "https://github.com/dtzWill/nur-packages"
         },
         "dukzcry": {
-            "rev": "4e2ff294a9203d8a33c1d372ae534cdaecbf3905",
-            "sha256": "137p69lvmarilazlgpbsisg4981d3d4d8c9mi3sdyrmc1iz8wri2",
+            "rev": "985acfbadf3f78ca075b322ccab2d853fd23d4c8",
+            "sha256": "1hvkrmzqxwi4xhchv78bhq2glvbhp863qraqkchay98kscd0xfdc",
             "url": "https://gitlab.com/repos-holder/nur-packages"
         },
         "dur": {
@@ -1068,8 +1068,8 @@
             "url": "https://github.com/kinzoku-dev/nur-kinzoku"
         },
         "kira-bruneau": {
-            "rev": "38e15edee5738e9b050dc1aa36e75aa6e50d947b",
-            "sha256": "1cr9s3c38dmr4gs3kwnxh4rk39qkflhz5lfkfqhfv99smxi56639",
+            "rev": "df18487fd6f8b111815501de41de22616a76c6bc",
+            "sha256": "13w73h8ak1gb82qfabvjacdcyjxdf8ww2ld672l9yhziz6500xv4",
             "url": "https://gitlab.com/kira-bruneau/nur-packages"
         },
         "kokakiwi": {
@@ -1700,8 +1700,8 @@
             "url": "https://github.com/ryan4yin/nur-packages"
         },
         "rycee": {
-            "rev": "f086e15336227c65af733b221159739c04132a8a",
-            "sha256": "1m5fzjif4d2w8ms9jyzh6sbq35hdy9n8f4zh7im61gs6n5ab7kmc",
+            "rev": "cac2405ddfd347978ee3cf957a97abc69f19f466",
+            "sha256": "0ijyc2xzqmxii8pbks114vr1s8x8whr8kxrskdlcyn2yg5s0dqx6",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sagikazarmark": {
@@ -1866,8 +1866,8 @@
             "url": "https://github.com/tomberek/nur-packages"
         },
         "tonywu20": {
-            "rev": "05489633a3f56c4cfea4df5759244b9ea81342cb",
-            "sha256": "0n4glhngf1rl5ajysjsf4bcpws2s641m6k6q9rxnr4n2lbs3fnvr",
+            "rev": "50012a60ff5fd0404f106c985c252e18dd815026",
+            "sha256": "1k120rvzwihazzha773pmbvgzmvfmijwc0fs1d69iy7j8j81sa92",
             "url": "https://github.com/TonyWu20/nur-packages"
         },
         "toonn": {
