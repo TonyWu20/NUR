@@ -166,8 +166,8 @@
             "url": "https://git.sr.ht/~aasg/nixexprs"
         },
         "abszero": {
-            "rev": "9993334d141591615daf0105454cea16fae4fb45",
-            "sha256": "1h4gir9z8djzvkixwcijmz4r8cniiwqbgfxrip5fz0n38kqyicnp",
+            "rev": "7516db07f7648fcef1112e8ddcb9140a26e5ed6f",
+            "sha256": "1zcwmgiwb62xxcnagzrjkvj54vabfj97cag98wn1yjr885qnwyga",
             "url": "https://github.com/Weathercold/nixfiles"
         },
         "afreakk": {
@@ -903,8 +903,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ionutnechita": {
-            "rev": "42573129914e15b716b8761586e7d6ad38a2f49e",
-            "sha256": "05f0x9d9qbczx38glc5nszrya3n4l0zkq9v529a612kyjp96d3yc",
+            "rev": "17ec9fef2e64bfd5cae9eb872f6ba3b3f7ef0494",
+            "sha256": "0c4sq907jixryi3lhm8pgss950mfzkrqvi1dbw8mn7dqghch9kz3",
             "url": "https://github.com/ionutnechita/ionutnechita-nur-packages"
         },
         "iopq": {
@@ -1293,8 +1293,8 @@
             "url": "https://github.com/moredhel/nur-packages"
         },
         "moredread": {
-            "rev": "5a204921fd2a511731d0924505fe800f4d00dad4",
-            "sha256": "1q2zpy6imsbki0xzn7zyi875mvjrqgrs6byw17xfm8ws3qis2264",
+            "rev": "4b145f620d38a44550e795491b0c54e55a30939f",
+            "sha256": "04ik29dw9spw38bsawpm075hxjqgfqqb7vlvz4xpnlgwxp9ryilw",
             "url": "https://github.com/Moredread/nur-packages"
         },
         "mozilla": {
@@ -1439,8 +1439,8 @@
             "url": "https://github.com/novafacing/nur-packages"
         },
         "novel2430": {
-            "rev": "415b6c8bc7104c4e94d57c219d8368165f8075c9",
-            "sha256": "0a7zvinxiag9c7hyjzkvdwlrk2iwkkgp3bf1sgzf8n7d1r4526mc",
+            "rev": "5947c57a3ff16c4cb743c6698436b2fe7b0c4846",
+            "sha256": "0xhfgzqv0qmz7adiln21al3j42fal2r8hvmmxfsmw8lbzgillpbf",
             "url": "https://github.com/novel2430/MyNUR"
         },
         "npkgs": {
@@ -1655,8 +1655,8 @@
             "url": "https://github.com/rewardenv/nur"
         },
         "rewine": {
-            "rev": "519932edba003b6fa4066af368aaa62ce3b16f6b",
-            "sha256": "01dwjyza2d6cbxhymqf672w6gg6mb4n58y9979x76898icir340c",
+            "rev": "5064ccc74e3974c0254e67651d6c7a97f202160a",
+            "sha256": "0hwzqq9lfrd9v7132r9w3gms2zv5426nhbx3mz6ab55yqq4jlw7h",
             "url": "https://github.com/wineee/nur-packages"
         },
         "robertodr": {
@@ -1866,8 +1866,8 @@
             "url": "https://github.com/tomberek/nur-packages"
         },
         "tonywu20": {
-            "rev": "2114bce992b2d91d97121f1b148f3220cde6c0f3",
-            "sha256": "055c9v4ddpy2k33wpydxanl7gl2dw8325a16s9p1gvjlj4jdhp6y",
+            "rev": "fe185d694fd8751c265f5b093d66f0e6872bb286",
+            "sha256": "1nadlkp448vvdrmfp2majy0ld9xji1snvp2xima6px9yw9kq9i3i",
             "url": "https://github.com/TonyWu20/nur-packages"
         },
         "toonn": {
